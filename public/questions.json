@@ -1,0 +1,47 @@
+[
+    {
+      "text": "Apa Kepanjangan PETA?",
+      "options": [
+        { "id": 0, "text": "Pembela Tanah Air", "isCorrect": true },
+        { "id": 1, "text": "Pembela Tanah Aku", "isCorrect": false },
+        { "id": 2, "text": "Pembuat Tanah Air", "isCorrect": false },
+        { "id": 3, "text": "Pemersatu Tanah Air", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Siapa Presiden Pertama Indonesia?",
+      "options": [
+        { "id": 0, "text": "Ir. Soekarno", "isCorrect": true },
+        { "id": 1, "text": "Joko Widodo", "isCorrect": false },
+        { "id": 2, "text": "B.J. Habibie", "isCorrect": false },
+        { "id": 3, "text": "Megawati Soekarno Putri", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kapan Indonesia Merdeka?",
+      "options": [
+        { "id": 0, "text": "17 Agustus 1943", "isCorrect": false },
+        { "id": 1, "text": "17 Agustus 1944", "isCorrect": false },
+        { "id": 2, "text": "17 Agustus 1945", "isCorrect": true },
+        { "id": 3, "text": "17 Agustus 1946", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Di Mana Pulau Ibu Kota Baru Indonesia?",
+      "options": [
+        { "id": 0, "text": "Jawa", "isCorrect": false },
+        { "id": 1, "text": "Kalimantan", "isCorrect": true },
+        { "id": 2, "text": "Sulawesi", "isCorrect": false },
+        { "id": 3, "text": "Sumatra", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Kota Mana yang Dijuluki sebagai 'Kota Kembang'?",
+      "options": [
+        { "id": 0, "text": "Bandung", "isCorrect": true },
+        { "id": 1, "text": "Bogor", "isCorrect": false },
+        { "id": 2, "text": "Aceh", "isCorrect": false },
+        { "id": 3, "text": "Yogyakarta", "isCorrect": false }
+      ]
+    }
+]
